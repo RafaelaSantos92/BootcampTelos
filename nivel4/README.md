@@ -1,4 +1,4 @@
-📦 Sistema de Controle de Estoque em Python
+# 📦 Sistema de Controle de Estoque em Python
 
 Este é um sistema simples de controle de estoque feito em Python.  
 Ele permite cadastrar produtos, listar o estoque, atualizar quantidades, aplicar descontos e verificar o valor total em estoque.
