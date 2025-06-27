@@ -45,5 +45,5 @@ O sistema não utiliza banco de dados, todas as informações são armazenadas e
 O ID dos produtos é gerado automaticamente e incrementado a cada novo cadastro.  
 O código usa entrada do usuário via input() e é ideal para fins de aprendizado ou pequenos testes em terminal.  
 
-📄 Licença
+📄 Licença:  
 Este projeto é de uso livre para fins educacionais.
